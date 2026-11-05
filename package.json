@@ -1,0 +1,12 @@
+{
+  "name": "my-anime-addon",
+  "version": "1.0.0",
+  "description": "Stremio / Nuvio addon: anime catalog and metadata from Kitsu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
